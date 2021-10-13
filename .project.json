@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "GRPO1",
+	"modules": [
+		{
+			"moduleId": "GRPO1",
+			"moduleName": "GRUPO1",
+			"subModules": [
+				{
+					"subModuleId": "FRMLR",
+					"subModuleName": "FORMULARIOS"
+				}
+			]
+		}
+	],
+	"projectName": "EjemploRama",
+	"subModuleId": "FRMLR"
+}
